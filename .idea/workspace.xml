@@ -19,14 +19,16 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a13857f1-b97c-4542-9ece-fdd4f2afa5e0" name="Default Changelist" comment="test1" />
+    <list default="true" id="a13857f1-b97c-4542-9ece-fdd4f2afa5e0" name="Default Changelist" comment="test1">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/DP" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="JsFlowSettings">
     <service-enabled>true</service-enabled>
@@ -51,6 +53,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/DP" />
@@ -60,8 +63,21 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="swagger" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SshConsoleOptionsProvider">
@@ -77,6 +93,7 @@
       <workItem from="1613320775059" duration="1463000" />
       <workItem from="1613325360126" duration="239000" />
       <workItem from="1615861045964" duration="1981000" />
+      <workItem from="1615884655098" duration="1282000" />
     </task>
     <task id="LOCAL-00001" summary="test1">
       <created>1615863631754</created>
@@ -101,28 +118,10 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="test1" />
     <option name="LAST_COMMIT_MESSAGE" value="test1" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="459" y="352" key="FileChooserDialogImpl" timestamp="1615865313564">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="459" y="352" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1615865313564" />
-    <state x="258" y="637" key="FileChooserDialogImpl/1080.0.1920.1040/0.0.1080.1880@0.0.1080.1880" timestamp="1613325563781" />
-    <state x="820" y="422" key="Github.ShareDialog" timestamp="1615861419103">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="820" y="422" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1615861419103" />
-    <state x="552" y="249" key="Vcs.Push.Dialog.v2" timestamp="1615863690434">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="552" y="249" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1615863690434" />
-    <state x="0" y="416" key="new project wizard" timestamp="1613325597024">
-      <screen x="0" y="0" width="1080" height="1880" />
-    </state>
-    <state x="0" y="416" key="new project wizard/1080.0.1920.1040/0.0.1080.1880@0.0.1080.1880" timestamp="1613325597024" />
   </component>
 </project>
