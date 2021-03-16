@@ -10,8 +10,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a13857f1-b97c-4542-9ece-fdd4f2afa5e0" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/DP/src/main/java/org/dp/strategy/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/DP/src/main/java/org/dp/strategy/Main.java" afterDir="false" />
+    <list default="true" id="a13857f1-b97c-4542-9ece-fdd4f2afa5e0" name="Default Changelist" comment="first commit">
+      <change beforePath="$PROJECT_DIR$/DP/src/main/java/org/dp/adapter/IUserInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/DP/src/main/java/org/dp/adapter/IUserInfo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +46,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../other" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/DP" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -55,6 +55,19 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="swagger" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SshConsoleOptionsProvider">
@@ -69,7 +82,7 @@
       <updated>1613320772529</updated>
       <workItem from="1613320775059" duration="1463000" />
       <workItem from="1613325360126" duration="239000" />
-      <workItem from="1615861045964" duration="1047000" />
+      <workItem from="1615861045964" duration="1870000" />
     </task>
     <servers />
   </component>
@@ -88,10 +101,10 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state x="459" y="352" key="FileChooserDialogImpl" timestamp="1615861075545">
+    <state x="459" y="352" key="FileChooserDialogImpl" timestamp="1615863375158">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="459" y="352" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1615861075545" />
+    <state x="459" y="352" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1615863375158" />
     <state x="258" y="637" key="FileChooserDialogImpl/1080.0.1920.1040/0.0.1080.1880@0.0.1080.1880" timestamp="1613325563781" />
     <state x="820" y="422" key="Github.ShareDialog" timestamp="1615861419103">
       <screen x="0" y="0" width="1920" height="1040" />
