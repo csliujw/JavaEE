@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<div id="app">
+    <kk v-for="item in message" v-bind:d="item"></kk>
+    <hr>
+    <div v-for="item in 5">
+        <kk v-bind:d="item"></kk>
+    </div>
+</div>
+<script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+<script>
+    /**
+     * 定义了一个组件 kk（标签，而理解为抽取出通过的html元素，进行复用） 组件名不支持大写？？
+     * template是组件的内容。（浏览器可识别的标签）
+     * v-bind:xxx =  "value"
+     *
+     * 父组件向子组件传值需要props接收。app是父组件，我们把父组件的值message元素传给了子组件kk
+     */
+    Vue.component('kk', {
+        props: ['d'],
+        template: '<li>{{d}}</li>'
+    });
+    let app = new Vue({
+        el: "#app",
+        data: {
+            message: [1, 2, 3, 4, 5]
+        }
+    })
+    // 看到P9
+</script>
+</body>
+</html>

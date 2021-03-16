@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.bbxx.dao.IUserDao">
+    <!-- 配置查询所有操作 -->
+    <select id="findAll" resultType="com.bbxx.pojo.UserVO">
+        select *
+        from users
+    </select>
+
+    <select id="findCondition" resultType="UserVO">
+        select * from users where 1 = 1
+        <if test="id!=null">
+            and id=#{id}
+        </if>
+        <if test="username!=null">
+            and username=#{username}
+        </if>
+        <if test="birthday!=null">
+            and birthday=#{birthday}
+        </if>
+    </select>
+
+    <delete id="delete">
+        delete
+        from users
+        where id = #{value}
+    </delete>
+
+    <update id="update" parameterType="UserVO">
+        update users
+        <set>
+            <if test="username!=null">
+                username = #{username}
+            </if>
+        </set>
+        where id=#{id}
+    </update>
+
+    <insert id="insert">
+        insert into users(username, birthday, address)
+        values (#{username}, #{birthday}, #{address})
+    </insert>
+
+    <select id="findByName" resultType="UserVO">
+        select *
+        from users
+        where username like concat("%", #{value}, "%")
+    </select>
+
+    <select id="findTotal" resultType="long">
+        select count(1)
+        from users
+    </select>
+</mapper>

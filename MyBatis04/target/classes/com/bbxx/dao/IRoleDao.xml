@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.bbxx.dao.IRoleDao">
+
+    <resultMap id="roleMap" type="RoleVO">
+        <id property="id" column="id"/>
+        <result property="roleName" column="role_name"/>
+        <result property="roleDesc" column="role_desc"/>
+        <collection property="userList" ofType="UserVO">
+            <!-- 有两个id 确保不出错，不这样会出错的，查询的数据会不对。 -->
+            <id column="u.id" property="id"></id>
+            <result column="username" property="username"/>
+            <result column="birthday" property="birthday"/>
+            <result column="address" property="address"/>
+        </collection>
+    </resultMap>
+
+
+    <select id="findByPrimaryKey" resultMap="roleMap">
+        select r.id, r.role_desc, r.role_name, u.id, u.username, u.address, u.birthday
+        from users as u,
+             role as r,
+             middle as m
+        where r.id = #{value}
+          and m.u_id = u.id
+          and m.r_id = r.id
+    </select>
+
+    <select id="findAllRole" resultMap="roleMap">
+        select r.id, r.role_desc, r.role_name, u.id, u.username, u.address, u.birthday
+        from users as u,
+             role as r,
+             middle as m
+        where m.u_id = u.id
+        and m.r_id = r.id
+    </select>
+
+</mapper>

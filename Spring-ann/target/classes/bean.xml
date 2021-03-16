@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:context="http://www.springframework.org/schema/context"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd http://www.springframework.org/schema/context https://www.springframework.org/schema/context/spring-context.xsd">
+
+    <bean id="person" class="org.example.pojo.Person">
+        <!-- 属性注入 setter的哦 -->
+        <property name="name" value="ljw"></property>
+        <property name="age" value="18"></property>
+    </bean>
+    <bean id="person2" class="org.example.pojo.Person">
+        <!-- 构造方法注入 -->
+        <constructor-arg name="name" value="liujiawei2"></constructor-arg>
+    </bean>
+    <!-- 还有什么c命名标签，p命名标签注入。c对应的好像是构造方法的，p对应的是属性即字段的 -->
+
+    <!-- 配置包扫描 -->
+    <context:component-scan base-package="org.example"></context:component-scan>
+
+    <bean id="demo" class="org.example.pojo.Person" init-method="toString" destroy-method="toString"></bean>
+</beans>

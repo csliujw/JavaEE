@@ -1,0 +1,24 @@
+{
+  "person": {
+    "name": "liujiawei",
+    "age": 18,
+    "sex": "man"
+  },
+  "data": [
+    {
+      "bookname": "Java",
+      "price": 22,
+      "author": "sdfsf"
+    },
+    {
+      "bookname": "JavaEE",
+      "price": 222,
+      "author": "sdfsf"
+    },
+    {
+      "bookname": "JavaSE",
+      "price": 22,
+      "author": "sdfsfasfsd"
+    }
+  ]
+}
