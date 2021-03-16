@@ -6,6 +6,15 @@
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
       </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
     </expand>
     <select />
   </component>
@@ -111,10 +120,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="test1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="459" y="352" key="FileChooserDialogImpl" timestamp="1615863375158">
+    <state x="459" y="352" key="FileChooserDialogImpl" timestamp="1615865313564">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="459" y="352" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1615863375158" />
+    <state x="459" y="352" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1615865313564" />
     <state x="258" y="637" key="FileChooserDialogImpl/1080.0.1920.1040/0.0.1080.1880@0.0.1080.1880" timestamp="1613325563781" />
     <state x="820" y="422" key="Github.ShareDialog" timestamp="1615861419103">
       <screen x="0" y="0" width="1920" height="1040" />
