@@ -12,7 +12,5 @@ public class Main {
 
         IUserInfo adapterInfo = new AdapterInfo();
         System.out.println(adapterInfo.getHomeAddress());
-
-
     }
 }
