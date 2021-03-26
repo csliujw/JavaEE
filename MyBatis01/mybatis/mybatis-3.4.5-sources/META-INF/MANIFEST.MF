@@ -1,0 +1,16 @@
+Manifest-Version: 1.0
+Implementation-Title: mybatis
+Implementation-Version: 3.4.5
+Built-By: ave
+Specification-Vendor: MyBatis.org
+Specification-Title: mybatis
+Implementation-Vendor-Id: org.mybatis
+Implementation-Vendor: MyBatis.org
+Implementation-Build-Date: 2017-08-20 08:59:03+0000
+X-Compile-Target-JDK: 1.6
+X-Compile-Source-JDK: 1.6
+Created-By: Apache Maven 3.5.0
+Build-Jdk: 1.8.0_131
+Specification-Version: 3.4
+Implementation-URL: http://www.mybatis.org/mybatis-3
+

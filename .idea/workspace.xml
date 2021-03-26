@@ -23,6 +23,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="59656438-068e-417f-ab43-32367253d3b2" name="Default Changelist" comment="delete somethings">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,7 +45,6 @@
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="mavenHome" value="E:\Program Files\JetBrains\IntelliJ IDEA 2020.2\plugins\maven\lib\maven3" />
         <option name="userSettingsFile" value="D:\Program Files\apache-maven-3.6.3\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
@@ -52,19 +54,19 @@
     <option name="abbreviatePackageNames" value="true" />
     <option name="autoscrollToSource" value="true" />
     <option name="compactDirectories" value="true" />
-    <option name="foldersAlwaysOnTop" value="false" />
-    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
     <option name="showLibraryContents" value="true" />
     <option name="showMembers" value="true" />
     <option name="showModules" value="false" />
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/MyBatis01" />
-    <property name="settings.editor.selected.configurable" value="swagger" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -81,6 +83,7 @@
       <workItem from="1616465146227" duration="52000" />
       <workItem from="1616625636387" duration="183000" />
       <workItem from="1616629298414" duration="40000" />
+      <workItem from="1616729070332" duration="244000" />
     </task>
     <task id="LOCAL-00001" summary="m">
       <created>1616625672151</created>
@@ -119,18 +122,8 @@
     <MESSAGE value="delete somethings" />
     <option name="LAST_COMMIT_MESSAGE" value="delete somethings" />
   </component>
-  <component name="WindowStateProjectService">
-    <state x="864" y="278" key="FileChooserDialogImpl" timestamp="1616629338077">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="864" y="278" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1616629338077" />
-    <state x="552" y="249" key="Vcs.Push.Dialog.v2" timestamp="1616625805687">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="552" y="249" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1616625805687" />
-    <state x="248" y="98" key="new project wizard" timestamp="1616465195243">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="248" y="98" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1616465195243" />
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
