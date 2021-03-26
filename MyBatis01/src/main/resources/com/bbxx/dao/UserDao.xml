@@ -9,10 +9,50 @@
         from users
     </select>
 
-    <select id="findByCondition" resultType="UserVO" parameterType="UserVO">
+    <!-- parameterType默认可以不写！mybatis会自动判断的 -->
+    <select id="findByCondition" resultType="UserVO">
         select *
         from users
         where id = #{id}
     </select>
 
+    <!-- mysql有主键自增，keyPropert=id 是把得到的自增的主键赋值给 paramaterType的 id 熟悉 -->
+    <insert id="insert" useGeneratedKeys="true" keyProperty="id">
+        insert into users(username, birthday, address)
+        values (#{username}, #{birthday}, #{address})
+    </insert>
+
+    <delete id="delete">
+        delete
+        from users
+        where id = #{id}
+    </delete>
+    <!--
+    UserVO selectOne(String username);
+    UserVO selectOne2(@Param("username") String name);
+    UserVO selectOne3(String name);
+    -->
+    <select id="selectOne" resultType="UserVO">
+        select *
+        from users
+        where username = #{username}
+    </select>
+
+    <select id="selectOne2" resultType="UserVO">
+        select *
+        from users
+        where username = #{username}
+    </select>
+
+    <select id="selectOne3" resultType="UserVO">
+        select *
+        from users
+        where username = #{value}
+    </select>
+
+    <select id="selectOne4" resultType="UserVO">
+        select *
+        from users
+        where username = #{asf}
+    </select>
 </mapper>

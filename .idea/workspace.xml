@@ -22,22 +22,16 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="59656438-068e-417f-ab43-32367253d3b2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/DP/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DP/src/main/java/com/design/prototype/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DP/src/main/java/com/design/proxy/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/JavaEE.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="59656438-068e-417f-ab43-32367253d3b2" name="Default Changelist" comment="delete somethings">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="JsFlowSettings">
     <service-enabled>true</service-enabled>
@@ -53,6 +47,7 @@
       </MavenGeneralSettings>
     </option>
   </component>
+  <component name="ProjectId" id="1qDskB3feUkSqeuJ7eNEBZQJ0yP" />
   <component name="ProjectViewState">
     <option name="abbreviatePackageNames" value="true" />
     <option name="autoscrollToSource" value="true" />
@@ -68,6 +63,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/MyBatis01" />
     <property name="settings.editor.selected.configurable" value="swagger" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -83,7 +79,24 @@
       <option name="presentableId" value="Default" />
       <updated>1616465145168</updated>
       <workItem from="1616465146227" duration="52000" />
+      <workItem from="1616625636387" duration="183000" />
+      <workItem from="1616629298414" duration="40000" />
     </task>
+    <task id="LOCAL-00001" summary="m">
+      <created>1616625672151</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1616625672151</updated>
+    </task>
+    <task id="LOCAL-00002" summary="delete somethings">
+      <created>1616625794747</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1616625794747</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -99,12 +112,22 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="m" />
+    <MESSAGE value="delete somethings" />
+    <option name="LAST_COMMIT_MESSAGE" value="delete somethings" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="864" y="278" key="FileChooserDialogImpl" timestamp="1616465185572">
+    <state x="864" y="278" key="FileChooserDialogImpl" timestamp="1616629338077">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="864" y="278" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1616465185572" />
+    <state x="864" y="278" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1616629338077" />
+    <state x="552" y="249" key="Vcs.Push.Dialog.v2" timestamp="1616625805687">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="249" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1616625805687" />
     <state x="248" y="98" key="new project wizard" timestamp="1616465195243">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
