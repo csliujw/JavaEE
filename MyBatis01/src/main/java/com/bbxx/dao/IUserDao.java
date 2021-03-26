@@ -6,6 +6,7 @@ import org.apache.ibatis.annotations.Param;
 
 import java.util.List;
 
+@SuppressWarnings("all")
 public interface IUserDao {
     List<UserVO> findAll();
 
