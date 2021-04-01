@@ -1,0 +1,50 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"AutoImportSettings\">\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\n  </component>\n  <component name=\"BranchesTreeState\">\n    <expand>\n      <path>\n        <item name=\"ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\n        <item name=\"LOCAL_ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\n      </path>\n      <path>\n        <item name=\"ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\n        <item name=\"REMOTE_ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\n      </path>\n      <path>\n        <item name=\"ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\n        <item name=\"REMOTE_ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\n        <item name=\"GROUP_NODE:origin\" type=\"e8cecc67:BranchNodeDescriptor\" />\n      </path>\n    </expand>\n    <select />\n  </component>\n  <component name=\"ChangeListManager\">\n    <list default=\"true\" id=\"59656438-068e-417f-ab43-32367253d3b2\" name=\"Default Changelist\" comment=\"delete somethings\">\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\n    </list>\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\n  </component>\n  <component name=\"Git.Settings\">\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\n  </component>\n  <component name=\"JsFlowSettings\">\n    <service-enabled>true</service-enabled>\n    <exe-path />\n    <other-services-enabled>true</other-services-enabled>\n    <auto-save>true</auto-save>\n  </component>\n  <component name=\"MavenImportPreferences\">\n    <option name=\"generalSettings\">\n      <MavenGeneralSettings>\n        <option name=\"mavenHome\" value=\"E:\\Program Files\\JetBrains\\IntelliJ IDEA 2020.2\\plugins\\maven\\lib\\maven3\" />\n        <option name=\"userSettingsFile\" value=\"D:\\Program Files\\apache-maven-3.6.3\\conf\\settings.xml\" />\n      </MavenGeneralSettings>\n    </option>\n  </component>\n  <component name=\"ProjectId\" id=\"1qDskB3feUkSqeuJ7eNEBZQJ0yP\" />\n  <component name=\"ProjectViewState\">\n    <option name=\"abbreviatePackageNames\" value=\"true\" />\n    <option name=\"autoscrollToSource\" value=\"true\" />\n    <option name=\"compactDirectories\" value=\"true\" />\n    <option name=\"foldersAlwaysOnTop\" value=\"false\" />\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\n    <option name=\"showLibraryContents\" value=\"true\" />\n    <option name=\"showMembers\" value=\"true\" />\n    <option name=\"showModules\" value=\"false\" />\n  </component>\n  <component name=\"PropertiesComponent\">\n    <property name=\"RunOnceActivity.OpenProjectViewOnStart\" value=\"true\" />\n    <property name=\"SHARE_PROJECT_CONFIGURATION_FILES\" value=\"true\" />\n    <property name=\"WebServerToolWindowFactoryState\" value=\"false\" />\n    <property name=\"aspect.path.notification.shown\" value=\"true\" />\n    <property name=\"last_opened_file_path\" value=\"$PROJECT_DIR$/MyBatis01\" />\n    <property name=\"settings.editor.selected.configurable\" value=\"swagger\" />\n    <property name=\"vue.rearranger.settings.migration\" value=\"true\" />\n  </component>\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\n  <component name=\"SshConsoleOptionsProvider\">\n    <option name=\"myConnectionType\" value=\"NONE\" />\n  </component>\n  <component name=\"TaskManager\">\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\n      <changelist id=\"59656438-068e-417f-ab43-32367253d3b2\" name=\"Default Changelist\" comment=\"\" />\n      <created>1616465145168</created>\n      <option name=\"number\" value=\"Default\" />\n      <option name=\"presentableId\" value=\"Default\" />\n      <updated>1616465145168</updated>\n      <workItem from=\"1616465146227\" duration=\"52000\" />\n      <workItem from=\"1616625636387\" duration=\"183000\" />\n      <workItem from=\"1616629298414\" duration=\"40000\" />\n    </task>\n    <task id=\"LOCAL-00001\" summary=\"m\">\n      <created>1616625672151</created>\n      <option name=\"number\" value=\"00001\" />\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1616625672151</updated>\n    </task>\n    <task id=\"LOCAL-00002\" summary=\"delete somethings\">\n      <created>1616625794747</created>\n      <option name=\"number\" value=\"00002\" />\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1616625794747</updated>\n    </task>\n    <option name=\"localTasksCounter\" value=\"3\" />\n    <servers />\n  </component>\n  <component name=\"TypeScriptGeneratedFilesManager\">\n    <option name=\"version\" value=\"3\" />\n  </component>\n  <component name=\"Vcs.Log.Tabs.Properties\">\n    <option name=\"TAB_STATES\">\n      <map>\n        <entry key=\"MAIN\">\n          <value>\n            <State />\n          </value>\n        </entry>\n      </map>\n    </option>\n    <option name=\"oldMeFiltersMigrated\" value=\"true\" />\n  </component>\n  <component name=\"VcsManagerConfiguration\">\n    <MESSAGE value=\"m\" />\n    <MESSAGE value=\"delete somethings\" />\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"delete somethings\" />\n  </component>\n  <component name=\"WindowStateProjectService\">\n    <state x=\"864\" y=\"278\" key=\"FileChooserDialogImpl\" timestamp=\"1616629338077\">\n      <screen x=\"0\" y=\"0\" width=\"1920\" height=\"1040\" />\n    </state>\n    <state x=\"864\" y=\"278\" key=\"FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040\" timestamp=\"1616629338077\" />\n    <state x=\"552\" y=\"249\" key=\"Vcs.Push.Dialog.v2\" timestamp=\"1616625805687\">\n      <screen x=\"0\" y=\"0\" width=\"1920\" height=\"1040\" />\n    </state>\n    <state x=\"552\" y=\"249\" key=\"Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040\" timestamp=\"1616625805687\" />\n    <state x=\"248\" y=\"98\" key=\"new project wizard\" timestamp=\"1616465195243\">\n      <screen x=\"0\" y=\"0\" width=\"1920\" height=\"1040\" />\n    </state>\n    <state x=\"248\" y=\"98\" key=\"new project wizard/0.0.1920.1040@0.0.1920.1040\" timestamp=\"1616465195243\" />\n  </component>\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/workspace.xml	(revision a32900dc71e0b942a1f784848dd7252007297940)
++++ .idea/workspace.xml	(date 1616728273108)
+@@ -22,9 +22,7 @@
+     <select />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="59656438-068e-417f-ab43-32367253d3b2" name="Default Changelist" comment="delete somethings">
+-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-    </list>
++    <list default="true" id="59656438-068e-417f-ab43-32367253d3b2" name="Default Changelist" comment="delete somethings" />
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+@@ -63,7 +61,7 @@
+     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+     <property name="WebServerToolWindowFactoryState" value="false" />
+     <property name="aspect.path.notification.shown" value="true" />
+-    <property name="last_opened_file_path" value="$PROJECT_DIR$/MyBatis01" />
++    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+     <property name="settings.editor.selected.configurable" value="swagger" />
+     <property name="vue.rearranger.settings.migration" value="true" />
+   </component>
+@@ -81,6 +79,7 @@
+       <workItem from="1616465146227" duration="52000" />
+       <workItem from="1616625636387" duration="183000" />
+       <workItem from="1616629298414" duration="40000" />
++      <workItem from="1616728230338" duration="43000" />
+     </task>
+     <task id="LOCAL-00001" summary="m">
+       <created>1616625672151</created>
+@@ -124,10 +123,10 @@
+       <screen x="0" y="0" width="1920" height="1040" />
+     </state>
+     <state x="864" y="278" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1616629338077" />
+-    <state x="552" y="249" key="Vcs.Push.Dialog.v2" timestamp="1616625805687">
++    <state x="552" y="249" key="Vcs.Push.Dialog.v2" timestamp="1616728242328">
+       <screen x="0" y="0" width="1920" height="1040" />
+     </state>
+-    <state x="552" y="249" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1616625805687" />
++    <state x="552" y="249" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1616728242328" />
+     <state x="248" y="98" key="new project wizard" timestamp="1616465195243">
+       <screen x="0" y="0" width="1920" height="1040" />
+     </state>
