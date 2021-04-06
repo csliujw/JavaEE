@@ -3,7 +3,7 @@ package offer;
 /**
  * 旋转数组的最小值
  */
-public class minArray {
+public class _11_minArray {
     public static void main(String[] args) {
 
     }
