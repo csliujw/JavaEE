@@ -23,88 +23,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="59656438-068e-417f-ab43-32367253d3b2" name="Default Changelist" comment="delete somethings">
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2021_3_26_22_44__Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2021_3_26_22_44__Default_Changelist_.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/concurrent/target/classes/META-INF/BenchmarkList" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/concurrent/target/classes/META-INF/CompilerHints" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/concurrent/target/classes/base/Sorted.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/concurrent/target/classes/ds/ListDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/concurrent/target/classes/ds/ListNoe.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/concurrent/target/classes/leetcode/ReverseWords.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/concurrent/target/classes/leetcode/_01_TwoSum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/concurrent/target/classes/leetcode/_02_AddTwoNumber$ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/concurrent/target/classes/leetcode/_02_AddTwoNumber.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/concurrent/target/classes/leetcode/_03_LengthOfLongestSubstring.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/concurrent/target/classes/leetcode/_05_LongestPalindrome.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/concurrent/target/classes/leetcode/_07_ReverNumber.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/concurrent/target/classes/leetcode/_07_Reverse.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/concurrent/target/classes/leetcode/_08_MyAtoi.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/concurrent/target/classes/leetcode/_09_IsPalindrome.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/concurrent/target/classes/leetcode/_10_majorityElement.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/concurrent/target/classes/leetcode/_11_MaxArea.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/concurrent/target/classes/leetcode/_136_singleNumber.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/concurrent/target/classes/leetcode/_14_LongestCommonPrefix.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/concurrent/target/classes/leetcode/_17_LetterCombinations.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/concurrent/target/classes/leetcode/_189_rotate.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/concurrent/target/classes/leetcode/_190_ReverseBits.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/concurrent/target/classes/leetcode/_19_RemoveNthFromEnd$ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/concurrent/target/classes/leetcode/_19_RemoveNthFromEnd.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/concurrent/target/classes/leetcode/_20_IsValid.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/concurrent/target/classes/leetcode/_215_findKthLargest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/concurrent/target/classes/leetcode/_217_containsDuplicate.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/concurrent/target/classes/leetcode/_21_MergeTwoLists$ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/concurrent/target/classes/leetcode/_21_MergeTwoLists.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/concurrent/target/classes/leetcode/_22_GenerateParenthesis.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/concurrent/target/classes/leetcode/_234_isPalindrome$ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/concurrent/target/classes/leetcode/_234_isPalindrome.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/concurrent/target/classes/leetcode/_237_DeleteNode$ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/concurrent/target/classes/leetcode/_237_DeleteNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/concurrent/target/classes/leetcode/_242_isAnagram.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/concurrent/target/classes/leetcode/_263_isUgly.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/concurrent/target/classes/leetcode/_26_RemoveDuplicates.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/concurrent/target/classes/leetcode/_344_reverseString.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/concurrent/target/classes/leetcode/_375_.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/concurrent/target/classes/leetcode/_662_widthOfBinaryTree$AnnotatedNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/concurrent/target/classes/leetcode/_662_widthOfBinaryTree$TreeNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/concurrent/target/classes/leetcode/_662_widthOfBinaryTree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/concurrent/target/classes/leetcode/_70_ClimbStairs.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/concurrent/target/classes/leetcode/_80_RemoveDuplicates.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/concurrent/target/classes/leetcode/_92_ReverseBetween$ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/concurrent/target/classes/leetcode/_92_ReverseBetween.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/concurrent/target/classes/leetcode/_smallestK_.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/concurrent/target/classes/log4j.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/concurrent/target/classes/offer/Count_binary_one.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/concurrent/target/classes/offer/DeleteDuplication$ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/concurrent/target/classes/offer/DeleteDuplication.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/concurrent/target/classes/offer/DeleteListNode$ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/concurrent/target/classes/offer/DeleteListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/concurrent/target/classes/offer/MyPow.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/concurrent/target/classes/offer/Offer_24_reverseList$ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/concurrent/target/classes/offer/Offer_24_reverseList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/concurrent/target/classes/offer/_03_findRepeatNumber.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/concurrent/target/classes/offer/_04_findNumberIn2DArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/concurrent/target/classes/offer/_05_replaceSpace.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/concurrent/target/classes/offer/_06_reversePrint$ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/concurrent/target/classes/offer/_06_reversePrint.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/concurrent/target/classes/offer/_09_CQueue.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/concurrent/target/classes/offer/_10_1_fib.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/concurrent/target/classes/offer/_10_2_fib.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/concurrent/target/classes/offer/_11_minArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/concurrent/target/classes/offer/_15_hammingWeight.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/concurrent/target/classes/offer/_16_myPow.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/concurrent/target/classes/offer/_17_printNumbers.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/concurrent/target/classes/offer/_18_deleteNode$ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/concurrent/target/classes/offer/_18_deleteNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/concurrent/target/classes/offer/_21_exchange.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/concurrent/target/classes/offer/_22_getKthFromEnd$ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/concurrent/target/classes/offer/_22_getKthFromEnd.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/concurrent/target/classes/offer/_24_reverseList$ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/concurrent/target/classes/offer/_24_reverseList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/concurrent/target/classes/offer/_25_mergeTwoLists$ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/concurrent/target/classes/offer/_25_mergeTwoLists.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/concurrent/target/classes/offer/_58_1_reverseWords.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/concurrent/target/classes/thread/CreateThread$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/concurrent/target/classes/thread/CreateThread$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/concurrent/target/classes/thread/CreateThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -143,7 +65,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/concurrent" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/MyBatis01" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -162,7 +84,6 @@
       <workItem from="1616625636387" duration="183000" />
       <workItem from="1616629298414" duration="40000" />
       <workItem from="1616729070332" duration="244000" />
-      <workItem from="1618233202591" duration="115000" />
     </task>
     <task id="LOCAL-00001" summary="m">
       <created>1616625672151</created>
@@ -178,14 +99,7 @@
       <option name="project" value="LOCAL" />
       <updated>1616625794747</updated>
     </task>
-    <task id="LOCAL-00003" summary="delete somethings">
-      <created>1618233236871</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1618233236871</updated>
-    </task>
-    <option name="localTasksCounter" value="4" />
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

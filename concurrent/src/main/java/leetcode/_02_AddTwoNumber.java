@@ -1,11 +1,28 @@
 package leetcode;
 
 public class _02_AddTwoNumber {
+    class ListNode {
+        int val;
+        ListNode next;
+
+        ListNode() {
+        }
+
+        ListNode(int val) {
+            this.val = val;
+        }
+
+        ListNode(int val, ListNode next) {
+            this.val = val;
+            this.next = next;
+        }
+    }
 
     /**
      * l1 != null || l2 != null || next != 0任意一种情况成立都需要继续进行for循环。
      * l1 l2不为null，是很明显要进行循环的。因为没有遍历完。
      * 如果l1 l2一样长，且他们的最高位相加后存在进位，即next=1，是需要把这个进位也存进去的!
+     *
      * @param l1
      * @param l2
      * @return
@@ -71,21 +88,4 @@ public class _02_AddTwoNumber {
         return out.next;
     }
 
-
-    class ListNode {
-        int val;
-        ListNode next;
-
-        ListNode() {
-        }
-
-        ListNode(int val) {
-            this.val = val;
-        }
-
-        ListNode(int val, ListNode next) {
-            this.val = val;
-            this.next = next;
-        }
-    }
 }
