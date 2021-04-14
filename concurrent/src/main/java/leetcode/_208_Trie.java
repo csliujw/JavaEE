@@ -2,12 +2,13 @@ package leetcode;
 
 public class _208_Trie {
     public static void main(String[] args) {
-        Trie obj = new Trie();
-        String word = "123131";
-        String prefix = "hello";
-        obj.insert(word);
-        boolean param_2 = obj.search(word);
-        boolean param_3 = obj.startsWith(prefix);
+        Trie trie = new Trie();
+        trie.insert("apple");
+        trie.search("apple");   // 返回 True
+        trie.search("app");     // 返回 False
+        trie.startsWith("app"); // 返回 True
+        trie.insert("app");
+        trie.search("app");     // 返回 True
     }
 }
 
@@ -33,6 +34,7 @@ class Trie {
         Node p = root;
         for (int i = 0; i < word.length(); i++) {
             int u = word.charAt(i) - 'a';
+            // p.son[u] = new Node() 就表示 word.charAt(i) 存入了Trie
             if (p.son[u] == null) p.son[u] = new Node();
             p = p.son[u];
         }
