@@ -1,6 +1,9 @@
 package leetcode;
 
 public class _1523_countOdds {
+
+    public static void main(String[] args) {
+    }
     public int countOdds1(int low, int high) {
         int count = 0;
         for (int i = low; i <= high; i++) {
