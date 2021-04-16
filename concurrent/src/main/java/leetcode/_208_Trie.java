@@ -7,6 +7,8 @@ public class _208_Trie {
         trie.search("apple");   // 返回 True
         trie.search("app");     // 返回 False
         trie.startsWith("app"); // 返回 True
+
+
         trie.insert("app");
         trie.search("app");     // 返回 True
     }
