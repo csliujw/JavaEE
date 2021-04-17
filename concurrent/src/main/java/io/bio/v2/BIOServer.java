@@ -1,4 +1,4 @@
-package io.v3;
+package io.bio.v2;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -7,8 +7,7 @@ import java.io.InputStreamReader;
 import java.net.ServerSocket;
 import java.net.Socket;
 
-// 服务器端 因为只一次accept 只接受到了一个客户端的请求，所以只能接受到一个客户端的消息。
-// 我们为每个客户端创建一个线程，就可以一个服务器 连接多个客户端了！请看V4版本！
+// 服务器端 可重复接受数据
 public class BIOServer {
     public static void main(String[] args) throws IOException {
         System.out.println("========服务端启动========");

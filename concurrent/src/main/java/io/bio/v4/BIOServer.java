@@ -1,4 +1,4 @@
-package io.v4;
+package io.bio.v4;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -14,9 +14,9 @@ public class BIOServer {
         System.out.println("========服务端启动========");
         // 1. 定义一个ServerSocket对象进行服务器的端口注册
         ServerSocket serverSocket = new ServerSocket(9999);
-        // 2. 监听客户端的Socket链接请求
         while (true) {
-            Socket accept = accept = serverSocket.accept();
+            // 2. 开始在这里暂停等待接收客户端的连接,得到一个端到端的Socket管道
+            Socket accept = serverSocket.accept();
             new Thread(new DealClient(accept)).start();
         }
     }
@@ -34,8 +34,11 @@ class DealClient implements Runnable {
         InputStream inputStream = null;
         BufferedReader bufferedReader = null;
         try {
+            // 3. 从Socket管道中得到一个字节输入流。
             inputStream = socket.getInputStream();
+            // 4. 把字节输入流包装成自己需要的流进行数据的读取。
             bufferedReader = new BufferedReader(new InputStreamReader(inputStream));
+            // 5. 读取数据
             String msg = "";
             while ((msg = bufferedReader.readLine()) != null) {
                 System.out.println("服务器端接收到：" + socket.getRemoteSocketAddress() + ":\t" + msg);
