@@ -1,6 +1,7 @@
 package lg.controller;
 
 import javax.servlet.ServletException;
+import javax.servlet.http.Cookie;
 import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
@@ -43,7 +44,7 @@ public class Servlet extends HttpServlet {
 
     protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
         System.out.println("123");
-//        response.getWriter().write("Hello doGet");
+        // response.getWriter().write("Hello doGet");
     }
 
     @Override
