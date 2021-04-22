@@ -1,4 +1,4 @@
-package io.v2;
+package io.bio.v2;
 
 import java.io.IOException;
 import java.io.OutputStream;
