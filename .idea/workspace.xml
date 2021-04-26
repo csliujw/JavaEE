@@ -23,9 +23,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="59656438-068e-417f-ab43-32367253d3b2" name="Default Changelist" comment="delete somethings">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -65,7 +62,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/MyBatis01" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/concurrent" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -84,6 +81,9 @@
       <workItem from="1616625636387" duration="183000" />
       <workItem from="1616629298414" duration="40000" />
       <workItem from="1616729070332" duration="244000" />
+      <workItem from="1619009428968" duration="601000" />
+      <workItem from="1619099899366" duration="88000" />
+      <workItem from="1619181911636" duration="314000" />
     </task>
     <task id="LOCAL-00001" summary="m">
       <created>1616625672151</created>
@@ -121,6 +121,16 @@
     <MESSAGE value="m" />
     <MESSAGE value="delete somethings" />
     <option name="LAST_COMMIT_MESSAGE" value="delete somethings" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1619182226983">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1619182226983" />
+    <state x="261" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1619182197664">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="261" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1619182197664" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
