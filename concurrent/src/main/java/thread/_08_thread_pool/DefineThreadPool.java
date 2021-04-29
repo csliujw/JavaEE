@@ -1,4 +1,4 @@
-package thread._08_threadpool;
+package thread._08_thread_pool;
 
 import java.util.concurrent.Executors;
 import java.util.concurrent.LinkedBlockingQueue;

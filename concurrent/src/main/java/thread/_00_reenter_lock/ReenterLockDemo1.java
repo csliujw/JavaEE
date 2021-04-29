@@ -1,4 +1,4 @@
-package thread.juc;
+package thread._00_reenter_lock;
 
 import java.util.concurrent.locks.ReentrantLock;
 
