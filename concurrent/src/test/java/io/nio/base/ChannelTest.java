@@ -1,9 +1,8 @@
-package io.nio;
+package io.nio.base;
 
+import io.nio.base.Channel;
 import org.junit.Before;
 import org.junit.Test;
-
-import static org.junit.Assert.*;
 
 public class ChannelTest {
     Channel c;

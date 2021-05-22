@@ -1,4 +1,4 @@
-package io.nio;
+package io.nio.base;
 
 import java.nio.ByteBuffer;
 import java.nio.charset.StandardCharsets;
