@@ -7,7 +7,8 @@ import java.util.Iterator;
 import java.util.Set;
 
 /**
- * NIO 非阻塞式通信 入门案例
+ * NIO 非阻塞式通信 入门案例。
+ * NIO代码写起来的确不舒服。
  */
 public class NIOServer {
     public static void main(String[] args) {
