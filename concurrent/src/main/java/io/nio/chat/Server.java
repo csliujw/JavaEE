@@ -2,6 +2,7 @@ package io.nio.chat;
 
 import java.net.InetAddress;
 import java.net.InetSocketAddress;
+import java.nio.ByteBuffer;
 import java.nio.channels.*;
 import java.util.Iterator;
 
@@ -45,9 +46,6 @@ public class Server {
                     } else if (event.isReadable()) {
                         // 读取数据请求 读取事件的请求
                         readData(event);
-                        SelectableChannel channel = event.channel();
-                        channel.configureBlocking(false);
-                        channel.register(selector, SelectionKey.OP_READ);
                     }
                 }
                 iterator.remove();
@@ -58,11 +56,44 @@ public class Server {
     }
 
     private void readData(SelectionKey event) {
+        // Java 7 try catch resource
         try {
             SocketChannel channel = (SocketChannel) event.channel();
+            channel.configureBlocking(false);
+            ByteBuffer buffer = ByteBuffer.allocate(1024);
+            int len;
+            while ((len = channel.read(buffer)) > 0) {
+                buffer.flip();
+                String msg = new String(buffer.array(), 0, len);
+                sendToAll(msg);
+                System.out.println("msg: " + msg);
+                buffer.clear();
+            }
         } catch (Exception e) {
             e.printStackTrace();
         }
+    }
+
+    // 把消息发送给除了自己外的所有人
+    private void sendToAll(String msg) {
+        try {
+            Iterator<SelectionKey> iterator = selector.selectedKeys().iterator();
+            while (iterator.hasNext()) {
+                SelectionKey event = iterator.next();
+                if (event.isReadable()) {
+                    SocketChannel channel = (SocketChannel) event.channel();
+                    channel.configureBlocking(false);
+                    byte[] bytes = msg.getBytes();
+                    ByteBuffer allocate = ByteBuffer.allocate(bytes.length);
+                    allocate.put(bytes);
+                    channel.write(allocate);
+                }
+            }
+            iterator.remove();
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+
     }
 
 
