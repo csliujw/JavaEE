@@ -7,6 +7,8 @@ import org.springframework.context.annotation.Configuration;
 import org.springframework.context.annotation.PropertySource;
 import org.springframework.core.env.ConfigurableEnvironment;
 
+import java.util.ArrayList;
+
 @Configuration
 // 使用@PropertySource读取外部配置文件中的k/v保存到运行的环境中
 @PropertySource(value = {"classpath:/person.properties"})

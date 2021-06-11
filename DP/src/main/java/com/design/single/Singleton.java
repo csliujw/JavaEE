@@ -7,9 +7,6 @@ public class Singleton {
 
     }
 
-    /**
-     * 会有线程安全问题
-     */
     public static Singleton getInstance() {
         return singleton;
     }
