@@ -23,308 +23,31 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="59656438-068e-417f-ab43-32367253d3b2" name="Default Changelist" comment="delete somethings">
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2021_3_26_22_44__Default_Changelist_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DP/src/main/java/com/design/factor/abstract_factir/AbstractHumanFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DP/src/main/java/com/design/factor/abstract_factir/Human.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DP/src/main/java/com/design/factor/abstract_factir/HumanFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DP/src/main/java/com/design/factor/abstract_factir/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Servlet3.0/.idea/artifacts/Servlet3_0_war.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Servlet3.0/.idea/artifacts/Servlet3_0_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Servlet3.0/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Servlet3.0/.idea/libraries/Maven__javax_servlet_javax_servlet_api_3_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Servlet3.0/.idea/libraries/Maven__javax_servlet_jsp_jsp_api_2_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Servlet3.0/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Servlet3.0/src/main/java/org/example/DispatcherServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Servlet3.0/src/main/java/org/example/FilterChain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Servlet3.0/src/main/java/org/example/LoginController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Servlet3.0/src/main/java/org/example/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Servlet3.0/src/main/resources/a.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Servlet3.0/src/main/webapp/aa.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Servlet3.0/src/main/webapp/login.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Servlet3.0/src/main/webapp/products.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringMVC/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringMVC/.idea/artifacts/SpringMVC_war.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringMVC/.idea/artifacts/SpringMVC_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringMVC/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringMVC/.idea/dictionaries" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringMVC/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringMVC/.idea/free-mybatis-generator-config.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringMVC/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringMVC/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringMVC/.idea/libraries/Maven__javax_servlet_javax_servlet_api_3_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringMVC/.idea/libraries/Maven__javax_servlet_jsp_jsp_api_2_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringMVC/.idea/libraries/Maven__org_springframework_spring_aop_4_3_11_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringMVC/.idea/libraries/Maven__org_springframework_spring_beans_4_3_11_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringMVC/.idea/libraries/Maven__org_springframework_spring_context_4_3_11_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringMVC/.idea/libraries/Maven__org_springframework_spring_core_4_3_11_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringMVC/.idea/libraries/Maven__org_springframework_spring_expression_4_3_11_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringMVC/.idea/libraries/Maven__org_springframework_spring_web_4_3_11_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringMVC/.idea/libraries/Maven__org_springframework_spring_webmvc_4_3_11_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringMVC/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringMVC/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringMVC/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringMVC/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringMVC01/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringMVC02/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/concurrent/cc/dd/ee/ff/a.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/concurrent/demo.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/concurrent/src/write.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/concurrent/write.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot/src/main/java/com/example/demo/SpringbootApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot/src/main/java/com/imooc/firstappdemo/FirstApplicationDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot/src/main/java/com/imooc/firstappdemo/controller/UserController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot/src/main/java/com/imooc/firstappdemo/dao/UserRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot/src/main/java/com/imooc/firstappdemo/pojo/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot/src/test/java/com/example/demo/SpringbootApplicationTests.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DP/src/main/java/com/design/single/DCLSingleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/DP/src/main/java/com/design/single/DCLSingleton.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaSE/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Servlet3.0/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaSE/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Servlet3.0/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaSE/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SpringMVC/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaSE/.idea/dictionaries" beforeDir="false" afterPath="$PROJECT_DIR$/Servlet3.0/.idea/dictionaries" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaSE/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Servlet3.0/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaSE/.idea/free-mybatis-generator-config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Servlet3.0/.idea/free-mybatis-generator-config.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaSE/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Servlet3.0/.idea/jarRepositories.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaSE/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Servlet3.0/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaSE/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaSE/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Servlet3.0/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaSE/JavaSE.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaSE/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaSE/src/main/java/data_structure/ArrayBlockingQueueSource.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaSE/src/main/java/data_structure/HashMapSource.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaSE/src/main/java/data_structure/LinkedListSource.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaSE/src/main/java/day01/v1/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaSE/src/main/java/day01/v1/TankFrame.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaSE/src/main/java/day01/v2/Dir.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaSE/src/main/java/day01/v2/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaSE/src/main/java/day01/v2/Tank.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaSE/src/main/java/day01/v2/TankFrame.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaSE/src/main/java/properties/OperateProperties.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaSE/src/main/java/syn/SynTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaSE/src/main/resources/jdbc.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaSE/src/test/java/properties/OperatePropertiesTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyBatis02/target/classes/SqlConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyBatis02/target/classes/com/bbxx/dao/IUserDao.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyBatis02/target/classes/com/bbxx/dao/UserDao.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyBatis02/target/classes/com/bbxx/pojo/UserVO.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyBatis02/target/classes/log4j.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyBatis02/target/classes/note.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyBatis02/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyBatis02/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyBatis02/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyBatis02/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyBatis02/target/test-classes/test/Demo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyBatis03/target/classes/SqlConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyBatis03/target/classes/com/bbxx/dao/IUserDao.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyBatis03/target/classes/com/bbxx/dao/IUserDao.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyBatis03/target/classes/com/bbxx/pojo/UserVO.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyBatis03/target/classes/log4j.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyBatis03/target/test-classes/test/Demo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyBatis04/target/classes/SqlConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyBatis04/target/classes/com/bbxx/dao/IRoleDao.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyBatis04/target/classes/com/bbxx/dao/IRoleDao.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyBatis04/target/classes/com/bbxx/pojo/MiddleVO.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyBatis04/target/classes/com/bbxx/pojo/RoleVO.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyBatis04/target/classes/com/bbxx/pojo/UserVO.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyBatis04/target/classes/log4j.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyBatis04/target/test-classes/test/TestRole.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyBatis05/target/classes/SqlConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyBatis05/target/classes/com/bbxx/dao/lazy/IAccountDao.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyBatis05/target/classes/com/bbxx/dao/lazy/IAccountDao.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyBatis05/target/classes/com/bbxx/dao/lazy/IUserDao.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyBatis05/target/classes/com/bbxx/dao/lazy/IUserDao.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyBatis05/target/classes/com/bbxx/pojo/Account.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyBatis05/target/classes/com/bbxx/pojo/User.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyBatis05/target/classes/log4j.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyBatis05/target/test-classes/lazy/LazyDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Servlet3.0/Servlet3.0.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Servlet3.0/Servlet3.0.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring-ann/target/classes/bean.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring-ann/target/classes/dbconfig.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring-ann/target/classes/org/example/App.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring-ann/target/classes/org/example/configuration/aop/LogAspects.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring-ann/target/classes/org/example/configuration/aop/MainConfigOfAOP.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring-ann/target/classes/org/example/configuration/aop/MathCalculator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring-ann/target/classes/org/example/configuration/ext/ApplicationEventConfig$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring-ann/target/classes/org/example/configuration/ext/ApplicationEventConfig.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring-ann/target/classes/org/example/configuration/ext/BeanDefinitionRegistryPostProcessorConfig.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring-ann/target/classes/org/example/configuration/ext/BeanFactoryPostProcessorConfig.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring-ann/target/classes/org/example/configuration/ext/Blue.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring-ann/target/classes/org/example/configuration/ext/MyApplicationEvent.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring-ann/target/classes/org/example/configuration/ext/MyBeanDefinitionRegistryPostProcessor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring-ann/target/classes/org/example/configuration/ext/MyBeanFactoryPostProcessor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring-ann/target/classes/org/example/configuration/ioc/assembly/Color.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring-ann/target/classes/org/example/configuration/ioc/assembly/ConditionConfiguration.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring-ann/target/classes/org/example/configuration/ioc/assembly/ConditionDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring-ann/target/classes/org/example/configuration/ioc/assembly/DefineFilter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring-ann/target/classes/org/example/configuration/ioc/assembly/DefineFilterConfiguration.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring-ann/target/classes/org/example/configuration/ioc/assembly/FactoryBeanConfiguration.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring-ann/target/classes/org/example/configuration/ioc/assembly/FactoryBeanDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring-ann/target/classes/org/example/configuration/ioc/assembly/Friend.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring-ann/target/classes/org/example/configuration/ioc/assembly/ImportBeanDefinitionDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring-ann/target/classes/org/example/configuration/ioc/assembly/ImportBeanDefinitionRegistrarConfiguration.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring-ann/target/classes/org/example/configuration/ioc/assembly/ImportConfiguration.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring-ann/target/classes/org/example/configuration/ioc/assembly/ImportSelectorConfiguration.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring-ann/target/classes/org/example/configuration/ioc/assembly/ImportSelectorDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring-ann/target/classes/org/example/configuration/ioc/assembly/IncludeConfiguration.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring-ann/target/classes/org/example/configuration/ioc/assembly/LazyConfiguration.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring-ann/target/classes/org/example/configuration/ioc/assembly/LinuxCondition.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring-ann/target/classes/org/example/configuration/ioc/assembly/MainConfiguration.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring-ann/target/classes/org/example/configuration/ioc/assembly/Other.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring-ann/target/classes/org/example/configuration/ioc/assembly/Rain.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring-ann/target/classes/org/example/configuration/ioc/assembly/Red.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring-ann/target/classes/org/example/configuration/ioc/assembly/ScopeConfiguration.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring-ann/target/classes/org/example/configuration/ioc/assembly/SelectorClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring-ann/target/classes/org/example/configuration/ioc/assembly/SelectorClassDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring-ann/target/classes/org/example/configuration/ioc/assembly/WindowsCondition.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring-ann/target/classes/org/example/configuration/ioc/assign/PropertySourceConfig.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring-ann/target/classes/org/example/configuration/ioc/assign/ValueConfig.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring-ann/target/classes/org/example/configuration/ioc/automatically/AutowiredConfig.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring-ann/target/classes/org/example/configuration/ioc/automatically/AwareCommonConfig.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring-ann/target/classes/org/example/configuration/ioc/automatically/AwareCommonDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring-ann/target/classes/org/example/configuration/ioc/automatically/AwareConfig.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring-ann/target/classes/org/example/configuration/ioc/automatically/Books.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring-ann/target/classes/org/example/configuration/ioc/automatically/Dog.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring-ann/target/classes/org/example/configuration/ioc/automatically/ProfileConfig.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring-ann/target/classes/org/example/configuration/ioc/automatically/ProfileDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring-ann/target/classes/org/example/configuration/ioc/lifecycle/BeanPostProcessConfiguration.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring-ann/target/classes/org/example/configuration/ioc/lifecycle/BeanPostProcessDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring-ann/target/classes/org/example/configuration/ioc/lifecycle/LifeCycleConfiguration.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring-ann/target/classes/org/example/dao/DemoDao.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring-ann/target/classes/org/example/pojo/Car.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring-ann/target/classes/org/example/pojo/Car2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring-ann/target/classes/org/example/pojo/Car3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring-ann/target/classes/org/example/pojo/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring-ann/target/classes/org/example/service/DemoService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring-ann/target/classes/person.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring-ann/target/test-classes/org/example/AppTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring-ann/target/test-classes/org/example/assembly/BeanXMLTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring-ann/target/test-classes/org/example/assembly/ConditionTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring-ann/target/test-classes/org/example/assembly/FactoryBeanTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring-ann/target/test-classes/org/example/assembly/ImportBeanDefinitionTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring-ann/target/test-classes/org/example/assembly/ImportSelectorTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring-ann/target/test-classes/org/example/assembly/ImportTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring-ann/target/test-classes/org/example/assembly/LazyTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring-ann/target/test-classes/org/example/assembly/ScanTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring-ann/target/test-classes/org/example/assembly/ScopeConfigurationTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVC01/target/SpringMVC01-1.0-SNAPSHOT.war" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVC01/target/SpringMVC01-1.0-SNAPSHOT/META-INF/MANIFEST.MF" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVC01/target/SpringMVC01-1.0-SNAPSHOT/WEB-INF/classes/cn/payphone/config/MyDispatcherServlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVC01/target/SpringMVC01-1.0-SNAPSHOT/WEB-INF/classes/cn/payphone/config/MyWebServletInitializer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVC01/target/SpringMVC01-1.0-SNAPSHOT/WEB-INF/classes/cn/payphone/config/RootConfig.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVC01/target/SpringMVC01-1.0-SNAPSHOT/WEB-INF/classes/cn/payphone/config/SpringBean.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVC01/target/SpringMVC01-1.0-SNAPSHOT/WEB-INF/classes/cn/payphone/config/WebConfig.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVC01/target/SpringMVC01-1.0-SNAPSHOT/WEB-INF/classes/cn/payphone/controller/Demo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVC01/target/SpringMVC01-1.0-SNAPSHOT/WEB-INF/classes/cn/payphone/controller/Exceptions.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVC01/target/SpringMVC01-1.0-SNAPSHOT/WEB-INF/classes/cn/payphone/controller/NotFound.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVC01/target/SpringMVC01-1.0-SNAPSHOT/WEB-INF/classes/cn/payphone/controller/RequestParameterController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVC01/target/SpringMVC01-1.0-SNAPSHOT/WEB-INF/classes/cn/payphone/controller/RestDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVC01/target/SpringMVC01-1.0-SNAPSHOT/WEB-INF/classes/cn/payphone/controller/Validation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVC01/target/SpringMVC01-1.0-SNAPSHOT/WEB-INF/classes/cn/payphone/controller/carrydata/CarryController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVC01/target/SpringMVC01-1.0-SNAPSHOT/WEB-INF/classes/cn/payphone/controller/requestMapping/AntController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVC01/target/SpringMVC01-1.0-SNAPSHOT/WEB-INF/classes/cn/payphone/controller/requestMapping/HelloController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVC01/target/SpringMVC01-1.0-SNAPSHOT/WEB-INF/classes/cn/payphone/controller/requestMapping/PathVariableController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVC01/target/SpringMVC01-1.0-SNAPSHOT/WEB-INF/classes/cn/payphone/controller/requestMapping/RequestMappingHeaderController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVC01/target/SpringMVC01-1.0-SNAPSHOT/WEB-INF/classes/cn/payphone/controller/requestMapping/RequestMappingMethodController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVC01/target/SpringMVC01-1.0-SNAPSHOT/WEB-INF/classes/cn/payphone/controller/requestMapping/RequestMappingParamsController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVC01/target/SpringMVC01-1.0-SNAPSHOT/WEB-INF/classes/cn/payphone/controller/requestMapping/RestDemoController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVC01/target/SpringMVC01-1.0-SNAPSHOT/WEB-INF/classes/cn/payphone/controller/source/DispatcherServletSource.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVC01/target/SpringMVC01-1.0-SNAPSHOT/WEB-INF/classes/cn/payphone/pojo/User.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVC01/target/SpringMVC01-1.0-SNAPSHOT/WEB-INF/classes/cn/payphone/service/UserService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVC01/target/SpringMVC01-1.0-SNAPSHOT/WEB-INF/lib/classmate-1.3.4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVC01/target/SpringMVC01-1.0-SNAPSHOT/WEB-INF/lib/hibernate-validator-6.1.5.Final.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVC01/target/SpringMVC01-1.0-SNAPSHOT/WEB-INF/lib/jackson-annotations-2.11.4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVC01/target/SpringMVC01-1.0-SNAPSHOT/WEB-INF/lib/jackson-core-2.11.4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVC01/target/SpringMVC01-1.0-SNAPSHOT/WEB-INF/lib/jackson-databind-2.11.4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVC01/target/SpringMVC01-1.0-SNAPSHOT/WEB-INF/lib/jakarta.validation-api-2.0.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVC01/target/SpringMVC01-1.0-SNAPSHOT/WEB-INF/lib/jboss-logging-3.3.2.Final.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVC01/target/SpringMVC01-1.0-SNAPSHOT/WEB-INF/lib/jsp-api-2.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVC01/target/SpringMVC01-1.0-SNAPSHOT/WEB-INF/lib/spring-aop-5.3.3.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVC01/target/SpringMVC01-1.0-SNAPSHOT/WEB-INF/lib/spring-beans-5.3.3.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVC01/target/SpringMVC01-1.0-SNAPSHOT/WEB-INF/lib/spring-context-5.3.3.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVC01/target/SpringMVC01-1.0-SNAPSHOT/WEB-INF/lib/spring-core-5.3.3.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVC01/target/SpringMVC01-1.0-SNAPSHOT/WEB-INF/lib/spring-expression-5.3.3.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVC01/target/SpringMVC01-1.0-SNAPSHOT/WEB-INF/lib/spring-jcl-5.3.3.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVC01/target/SpringMVC01-1.0-SNAPSHOT/WEB-INF/lib/spring-web-5.3.3.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVC01/target/SpringMVC01-1.0-SNAPSHOT/WEB-INF/lib/spring-webmvc-5.3.3.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVC01/target/SpringMVC01-1.0-SNAPSHOT/WEB-INF/views/404.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVC01/target/SpringMVC01-1.0-SNAPSHOT/WEB-INF/views/carry.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVC01/target/SpringMVC01-1.0-SNAPSHOT/WEB-INF/views/error.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVC01/target/SpringMVC01-1.0-SNAPSHOT/WEB-INF/views/index.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVC01/target/SpringMVC01-1.0-SNAPSHOT/WEB-INF/views/model.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVC01/target/SpringMVC01-1.0-SNAPSHOT/WEB-INF/views/rest.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVC01/target/SpringMVC01-1.0-SNAPSHOT/WEB-INF/views/success.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVC01/target/SpringMVC01-1.0-SNAPSHOT/error.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVC01/target/SpringMVC01-1.0-SNAPSHOT/hello.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVC01/target/SpringMVC01-1.0-SNAPSHOT/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Servlet3.0/src/main/webapp/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVC01/target/classes/cn/payphone/config/MyDispatcherServlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVC01/target/classes/cn/payphone/config/MyWebServletInitializer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVC01/target/classes/cn/payphone/config/RootConfig.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVC01/target/classes/cn/payphone/config/SpringBean.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVC01/target/classes/cn/payphone/config/WebConfig.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVC01/target/classes/cn/payphone/controller/Demo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVC01/target/classes/cn/payphone/controller/Exceptions.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVC01/target/classes/cn/payphone/controller/NotFound.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVC01/target/classes/cn/payphone/controller/RequestParameterController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVC01/target/classes/cn/payphone/controller/RestDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVC01/target/classes/cn/payphone/controller/Validation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVC01/target/classes/cn/payphone/controller/carrydata/CarryController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVC01/target/classes/cn/payphone/controller/requestMapping/AntController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVC01/target/classes/cn/payphone/controller/requestMapping/HelloController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVC01/target/classes/cn/payphone/controller/requestMapping/PathVariableController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVC01/target/classes/cn/payphone/controller/requestMapping/RequestMappingHeaderController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVC01/target/classes/cn/payphone/controller/requestMapping/RequestMappingMethodController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVC01/target/classes/cn/payphone/controller/requestMapping/RequestMappingParamsController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVC01/target/classes/cn/payphone/controller/requestMapping/RestDemoController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVC01/target/classes/cn/payphone/controller/source/DispatcherServletSource.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVC01/target/classes/cn/payphone/pojo/User.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVC01/target/classes/cn/payphone/service/UserService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVC01/target/test-classes/mocks/MockDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVC01/target/test-classes/mocks/SpringMVCTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVC01/target/test-classes/mocks/SpringTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVC02/target/classes/org/example/ConvertController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVC02/target/classes/org/example/MyStringToPersonConverter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVC02/target/classes/org/example/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVC02/target/classes/org/example/config/MyWebApplicationInitializer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVC02/target/classes/org/example/config/RootConfig.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVC02/target/classes/org/example/config/WebConfig.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVC02/target/classes/org/example/controller/HelloController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVC02/target/classes/org/example/controller/MyViewResolverController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVC02/target/classes/org/example/interceptor/MyInterceptor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVC02/target/classes/org/example/view/MyView.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVC02/target/classes/org/example/view/MyViewResolver.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVC02/target/test-classes/MockTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringTest/target/classes/org/example/config/MyInitializer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringTest/target/classes/org/example/config/RootConfig.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringTest/target/classes/org/example/config/WebConfig.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringTest/target/classes/org/example/controller/Hello.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringTest/target/classes/org/example/service/HelloService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringTest/target/test-classes/MockTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webmvcSource/target/classes/org/example/config/RootConfig.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webmvcSource/target/classes/org/example/config/WebConfig.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webmvcSource/target/classes/org/example/config/WebInitializer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webmvcSource/target/classes/org/example/controller/Demo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webmvcSource/target/webmvcSource-1.0-SNAPSHOT.war" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webmvcSource/target/webmvcSource-1.0-SNAPSHOT/META-INF/MANIFEST.MF" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webmvcSource/target/webmvcSource-1.0-SNAPSHOT/WEB-INF/classes/org/example/config/RootConfig.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webmvcSource/target/webmvcSource-1.0-SNAPSHOT/WEB-INF/classes/org/example/config/WebConfig.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webmvcSource/target/webmvcSource-1.0-SNAPSHOT/WEB-INF/classes/org/example/config/WebInitializer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webmvcSource/target/webmvcSource-1.0-SNAPSHOT/WEB-INF/classes/org/example/controller/Demo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webmvcSource/target/webmvcSource-1.0-SNAPSHOT/WEB-INF/lib/spring-aop-5.3.3.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webmvcSource/target/webmvcSource-1.0-SNAPSHOT/WEB-INF/lib/spring-beans-5.3.3.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webmvcSource/target/webmvcSource-1.0-SNAPSHOT/WEB-INF/lib/spring-context-5.3.3.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webmvcSource/target/webmvcSource-1.0-SNAPSHOT/WEB-INF/lib/spring-core-5.3.3.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webmvcSource/target/webmvcSource-1.0-SNAPSHOT/WEB-INF/lib/spring-expression-5.3.3.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webmvcSource/target/webmvcSource-1.0-SNAPSHOT/WEB-INF/lib/spring-jcl-5.3.3.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webmvcSource/target/webmvcSource-1.0-SNAPSHOT/WEB-INF/lib/spring-web-5.3.3.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webmvcSource/target/webmvcSource-1.0-SNAPSHOT/WEB-INF/lib/spring-webmvc-5.3.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/community/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/community/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/community/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/community/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/community/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/community/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/community/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/community/src/main/java/cn/baobaoxuxu/community/CommunityApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/community/src/main/java/cn/baobaoxuxu/community/controller/Hello.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/community/src/main/java/cn/baobaoxuxu/community/controller/MyBatisController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/community/src/main/java/cn/baobaoxuxu/community/controller/YamlController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/community/src/main/java/cn/baobaoxuxu/community/mapper/RoleMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/community/src/main/java/cn/baobaoxuxu/community/notes.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/community/src/main/java/cn/baobaoxuxu/community/pojo/Role.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/community/src/main/java/cn/baobaoxuxu/community/repository/RoleRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/community/src/main/java/cn/baobaoxuxu/community/service/RoleService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/community/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/community/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/community/src/main/resources/mapper/RoleMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/community/src/main/resources/templates/hello.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/community/src/test/java/cn/baobaoxuxu/community/CommunityApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/community/src/test/java/cn/baobaoxuxu/community/JpaTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/community/src/test/java/cn/baobaoxuxu/community/MyBatisTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/community/src/test/java/cn/baobaoxuxu/community/RedisTest.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -371,7 +94,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/concurrent" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -380,6 +103,11 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Code\JavaEE\SpringMVC\src\main\java\org\example\config\base" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
@@ -414,7 +142,7 @@
       <workItem from="1619181911636" duration="314000" />
       <workItem from="1619785262121" duration="69000" />
       <workItem from="1620352550131" duration="3264000" />
-      <workItem from="1627127004516" duration="305000" />
+      <workItem from="1627127004516" duration="792000" />
     </task>
     <task id="LOCAL-00001" summary="m">
       <created>1616625672151</created>
@@ -452,6 +180,12 @@
     <MESSAGE value="m" />
     <MESSAGE value="delete somethings" />
     <option name="LAST_COMMIT_MESSAGE" value="delete somethings" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="740" y="277" key="FileChooserDialogImpl" timestamp="1627127801675">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="277" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1627127801675" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
