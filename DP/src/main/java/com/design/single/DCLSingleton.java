@@ -8,7 +8,6 @@ public class DCLSingleton {
     private volatile DCLSingleton dclSingleton = null;
 
     private DCLSingleton() {
-
     }
 
     public DCLSingleton getInstance() {
