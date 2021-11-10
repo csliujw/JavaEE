@@ -1,4 +1,4 @@
-package cn.itcast.jvm.t1.direct;
+package jvm.direct;
 
 import java.nio.ByteBuffer;
 import java.util.ArrayList;

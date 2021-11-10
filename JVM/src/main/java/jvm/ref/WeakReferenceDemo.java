@@ -3,10 +3,11 @@ package jvm.ref;
 import java.lang.ref.Reference;
 import java.lang.ref.ReferenceQueue;
 import java.lang.ref.SoftReference;
+import java.lang.ref.WeakReference;
 import java.util.ArrayList;
 import java.util.List;
 
-public class SoftReferenceDemo {
+public class WeakReferenceDemo {
     static int _4MB = 4 * 1024 * 1024;
 
     public static void strongRef() {
@@ -16,14 +17,14 @@ public class SoftReferenceDemo {
         }
     }
 
-    public static void soft() {
+    public static void weak() {
         ReferenceQueue<byte[]> queue = new ReferenceQueue<>();
-        List<SoftReference<byte[]>> list = new ArrayList<>();
+        List<WeakReference<byte[]>> list = new ArrayList<>();
         for (int i = 0; i < 5; i++) {
             // 关联了软引用队列，当软引用所关联的 byte[] 被回收时，软引用自己会加入软引用队列中取去。
-            SoftReference<byte[]> soft = new SoftReference<byte[]>(new byte[_4MB],queue);
-            System.out.println(soft.get());
-            list.add(soft);
+            WeakReference<byte[]> weak = new WeakReference<byte[]>(new byte[_4MB], queue);
+            System.out.println(weak.get());
+            list.add(weak);
             System.out.println(list.size());
         }
         // 从队列中获取无用的 软引用对象，并移除
@@ -34,13 +35,13 @@ public class SoftReferenceDemo {
         }
 
         System.out.println("循环结束：" + list.size());
-        for (SoftReference<byte[]>reference:list){
+        for (WeakReference<byte[]> reference : list) {
             System.out.println(reference.get());
         }
     }
 
     public static void main(String[] args) {
 //        strongRef();
-        soft();
+        weak();
     }
 }

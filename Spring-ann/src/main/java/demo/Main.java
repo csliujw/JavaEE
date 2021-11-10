@@ -7,6 +7,8 @@ public class Main {
     public static void main(String[] args) {
         AnnotationConfigApplicationContext context = new AnnotationConfigApplicationContext(ObjConfiguration.class);
         Person bean = context.getBean(Person.class);
+        Person bean2 = context.getBean(Person.class);
+        System.out.println(bean == bean2); // 默认单例模式
         System.out.println(bean);
 
         ClassPathXmlApplicationContext context1 = new ClassPathXmlApplicationContext("demo.xml");

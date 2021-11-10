@@ -21,7 +21,7 @@ public class IndexServlet extends HttpServlet {
 
     }
 
-    protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException{
+    protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException {
         request.setAttribute("requestVar", "request data");
         request.getSession().setAttribute("sessionVar", "session data");
         request.getServletContext().setAttribute("contextVAr", "context data");

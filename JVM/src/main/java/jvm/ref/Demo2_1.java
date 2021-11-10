@@ -1,9 +1,9 @@
-package cn.itcast.jvm.t2;
+package jvm.ref;
 
 import java.util.ArrayList;
 
 /**
- *  演示内存的分配策略
+ * 演示内存的分配策略
  */
 public class Demo2_1 {
     private static final int _512KB = 512 * 1024;

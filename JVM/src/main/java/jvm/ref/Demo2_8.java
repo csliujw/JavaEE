@@ -1,4 +1,4 @@
-package cn.itcast.jvm.t2;
+package jvm.ref;
 
 /*
 查看虚拟机运行参数

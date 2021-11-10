@@ -43,6 +43,7 @@ class HandlerSocketServerPool {
      * TimeUnit unit, 空闲时间的时间单位
      * BlockingQueue<Runnable> workQueue) { 任务队列
      * }
+     *
      * @param maxThreadNumber
      * @param taskQueueSize
      */

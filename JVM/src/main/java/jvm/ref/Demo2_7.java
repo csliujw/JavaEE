@@ -1,4 +1,4 @@
-package cn.itcast.jvm.t2;
+package jvm.ref;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -8,6 +8,8 @@ import java.util.List;
  */
 public class Demo2_7 {
     private static final int _1KB = 128;
+
+
     public static void main(String[] args) {
         int i = 0;
         try {

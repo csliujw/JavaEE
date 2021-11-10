@@ -6,6 +6,7 @@ public class Test1 {
     /**
      * 集合的用法还是不熟悉.
      * 如果内存存不下,就把它切分成多个list进行操作.
+     *
      * @param vecA
      * @param vecB
      * @return

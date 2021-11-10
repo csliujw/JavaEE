@@ -31,7 +31,7 @@ public class LazyDemo {
     }
 
     @Test
-    public void testLazy(){
+    public void testLazy() {
         List<Account> all = dao.findAll();
 //        不使用user的话，就不会查询出来数据。
 //        System.out.println(all.get(0).getUser());
@@ -39,10 +39,10 @@ public class LazyDemo {
     }
 
     @Test
-    public void testLazy2(){
+    public void testLazy2() {
         IUserDao mapper = sqlSession.getMapper(IUserDao.class);
         List<User> all = mapper.findAll();
-        for (User u :all){
+        for (User u : all) {
             u.getAccounts();
         }
     }

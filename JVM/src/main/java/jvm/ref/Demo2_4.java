@@ -1,4 +1,4 @@
-package cn.itcast.jvm.t2;
+package jvm.ref;
 
 import java.lang.ref.Reference;
 import java.lang.ref.ReferenceQueue;
@@ -28,7 +28,7 @@ public class Demo2_4 {
 
         // 从队列中获取无用的 软引用对象，并移除
         Reference<? extends byte[]> poll = queue.poll();
-        while( poll != null) {
+        while (poll != null) {
             list.remove(poll);
             poll = queue.poll();
         }

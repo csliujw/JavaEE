@@ -131,7 +131,7 @@ public class DefineThreadPool {
      * 参考公式：CPU核数 / (1 - 阻塞系数) 阻塞系数在0.8 ~ 0.9左右 <br>
      * 例如：8核CPU：8/ (1 - 0.9) = 80个线程数 <br>
      */
-    public static void note(){
+    public static void note() {
 
     }
 

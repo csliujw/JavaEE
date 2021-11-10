@@ -15,7 +15,8 @@
 
     <!--动态SQL if-->
     <select id="findCondition" resultType="UserVO">
-        <include refid="susers"></include> where 1 = 1
+        <include refid="susers"></include>
+        where 1 = 1
         <if test="id!=null">
             and id=#{id}
         </if>

@@ -1,4 +1,4 @@
-package cn.itcast.jvm.t1.stringtable;
+package jvm.stringtable;
 
 import java.io.BufferedReader;
 import java.io.FileInputStream;
@@ -12,7 +12,7 @@ import java.util.List;
  * -XX:StringTableSize=200000 -XX:+PrintStringTableStatistics
  * -Xsx500m -Xmx500m -XX:+PrintStringTableStatistics -XX:StringTableSize=200000
  */
-public class Demo1_25 {
+public class StringTableBest2 {
 
     public static void main(String[] args) throws IOException {
 
@@ -24,16 +24,16 @@ public class Demo1_25 {
                 long start = System.nanoTime();
                 while (true) {
                     line = reader.readLine();
-                    if(line == null) {
+                    if (line == null) {
                         break;
                     }
+                    // 把对象放到池中
                     address.add(line.intern());
                 }
-                System.out.println("cost:" +(System.nanoTime()-start)/1000000);
+                System.out.println("cost:" + (System.nanoTime() - start) / 1000000);
             }
         }
         System.in.read();
-
 
     }
 }

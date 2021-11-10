@@ -7,12 +7,12 @@ public class _17_printNumbers {
         // n=1 时 max = 9
         // n=2 时 max = 99
         int max = 1;
-        for(int i=0;i<n;i++){
-            max*=10;
+        for (int i = 0; i < n; i++) {
+            max *= 10;
         }
-        int[]arr = new int[max-1];
-        for(int i=1;i<max;i++){
-            arr[i-1]=i;
+        int[] arr = new int[max - 1];
+        for (int i = 1; i < max; i++) {
+            arr[i - 1] = i;
         }
         return arr;
     }

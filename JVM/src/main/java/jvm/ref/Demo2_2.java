@@ -1,4 +1,4 @@
-package cn.itcast.jvm.t2;
+package jvm.ref;
 
 import java.io.IOException;
 import java.util.ArrayList;

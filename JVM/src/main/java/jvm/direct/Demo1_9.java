@@ -1,4 +1,4 @@
-package cn.itcast.jvm.t1.direct;
+package jvm.direct;
 
 import java.io.FileInputStream;
 import java.io.FileOutputStream;

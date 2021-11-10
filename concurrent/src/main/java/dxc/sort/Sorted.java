@@ -1,11 +1,42 @@
 package dxc.sort;
 
+import java.util.Arrays;
+
 /**
  * 排序模板
  * 快排最难的是划分<br>
  * 归并最难的是合二为一<br>
  */
 public class Sorted {
+
+    public static void main(String[] args) {
+        Sorted sorted = new Sorted();
+        int[] arr = {3, 1, 2, 3, 4, 54, 4, 3, 31, 4};
+        int[] tmp = new int[arr.length];
+        sorted.quick2(arr, 0, arr.length - 1);
+//        sorted.merge(arr, tmp, 0, arr.length - 1);
+        for (int i = 0; i < arr.length; i++) {
+            System.out.print(arr[i] + "\t");
+        }
+    }
+
+    public void quick2(int[] array, int left, int right) {
+        if (left >= right) return;
+        int mid = array[left], i = left - 1, j = right + 1;
+        while (i < j) {
+            do i++; while (array[i] < mid);
+            do j--; while (array[j] > mid);
+            if (i < j) {
+                int tmp = array[i];
+                array[i] = array[j];
+                array[j] = tmp;
+            }
+        }
+        quick2(array, left, j);
+        quick2(array, j + 1, right);
+    }
+
+
     // java里一定要用buffRead 不要用scanner
     public void quick(int[] array, int left, int right) {
         if (left >= right) return;
@@ -52,16 +83,5 @@ public class Sorted {
         // 有序序列放入array中。
         for (i = left, j = 0; i <= right; i++, j++) array[i] = tmp[j];
 
-    }
-
-    public static void main(String[] args) {
-        Sorted sorted = new Sorted();
-        int[] arr = {3, 1, 2, 3, 4, 54, 4, 3, 31, 4};
-        int[] tmp = new int[arr.length];
-        // sorted.quick(arr, 0, arr.length - 1);
-        sorted.merge(arr, tmp, 0, arr.length - 1);
-        for (int i = 0; i < arr.length; i++) {
-            System.out.print(arr[i] + "\t");
-        }
     }
 }

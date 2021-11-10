@@ -1,20 +1,79 @@
 package thread._02_cas;
 
-import java.util.concurrent.atomic.AtomicInteger;
+import java.util.concurrent.atomic.LongAdder;
+
+class Value {
+    int count = 0;
+}
 
 public class CASDemo {
-    public static void main(String[] args) {
-        AtomicInteger atomicInteger = new AtomicInteger(5);
-        atomicInteger.compareAndSet(5, 10);
-        atomicInteger.getAndIncrement();
-        /**
-         *     this：当前对象
-         *     VALUE：内存偏移量，也就是内存地址
-         *     1 加一
-         *     public final int getAndIncrement() {
-         *         return U.getAndAddInt(this, VALUE, 1);
-         *     }
-         */
-        System.out.println(atomicInteger.get());
+
+    public synchronized void demo() {
+
     }
+
+    public static long testLongAdder() throws InterruptedException {
+        LongAdder longAdder = new LongAdder();
+        Thread[] ths = new Thread[100];
+        for (int i = 0; i < 100; i++) {
+            ths[i] = new Thread(new Runnable() {
+                @Override
+                public void run() {
+                    for (int j = 0; j < 10000000; j++) {
+                        longAdder.increment();
+                    }
+                }
+            });
+        }
+        long start = System.currentTimeMillis();
+        for (int i = 0; i < ths.length; i++) {
+            ths[i].start();
+            ths[i].join();
+        }
+        long end = System.currentTimeMillis();
+        return end - start;
+    }
+
+    public static long test() throws InterruptedException {
+        Value value = new Value();
+        Thread[] ths = new Thread[100];
+        for (int i = 0; i < 100; i++) {
+            ths[i] = new Thread(new Runnable() {
+                @Override
+                public void run() {
+                    for (int j = 0; j < 10000000; j++) {
+                        synchronized (CASDemo.class) {
+                            value.count++;
+                        }
+                    }
+                }
+            });
+        }
+        long start = System.currentTimeMillis();
+        for (int i = 0; i < ths.length; i++) {
+            ths[i].start();
+            ths[i].join();
+        }
+        long end = System.currentTimeMillis();
+        return end - start;
+    }
+
+    public static void main(String[] args) throws InterruptedException {
+        long sum = 0;
+        for (int i = 0; i < 100; i++) {
+            sum += testLongAdder();
+        }
+        System.out.println(sum);
+        sum = 0;
+        for (int i = 0; i < 100; i++) {
+            sum += test();
+        }
+        System.out.println(sum);
+    }
+    // sync
+    // AQS
+    // cas
+    // volitale
+    // JUC ReentrantLock  --> ConditionObject (LockSupport)
+    // LockSupport
 }

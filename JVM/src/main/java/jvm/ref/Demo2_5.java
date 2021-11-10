@@ -1,4 +1,4 @@
-package cn.itcast.jvm.t2;
+package jvm.ref;
 
 import java.lang.ref.Reference;
 import java.lang.ref.ReferenceQueue;
@@ -21,7 +21,7 @@ public class Demo2_5 {
             WeakReference<byte[]> ref = new WeakReference<>(new byte[_4MB]);
             list.add(ref);
             for (WeakReference<byte[]> w : list) {
-                System.out.print(w.get()+" ");
+                System.out.print(w.get() + " ");
             }
             System.out.println();
 

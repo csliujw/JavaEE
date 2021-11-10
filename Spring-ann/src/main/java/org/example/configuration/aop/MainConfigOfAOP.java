@@ -1,6 +1,5 @@
 package org.example.configuration.aop;
 
-import com.google.inject.internal.util.Join;
 import org.aspectj.lang.JoinPoint;
 import org.aspectj.lang.Signature;
 import org.aspectj.lang.annotation.*;

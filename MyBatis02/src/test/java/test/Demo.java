@@ -40,40 +40,40 @@ public class Demo {
     }
 
     @Test
-    public void findCondition(){
+    public void findCondition() {
         List<UserVO> condition = mapper.findCondition(new UserVO(1, "liujiawe", null));
         condition.stream().forEach(System.out::println);
     }
 
     @Test
-    public void delete(){
+    public void delete() {
         Integer delete = mapper.delete(1);
         System.out.println(delete);
         sqlSession.commit();
     }
 
     @Test
-    public void update(){
+    public void update() {
         Boolean payphone = mapper.update(new UserVO(2, "payphone", "1997-11-03"));
         System.out.println(payphone);
         sqlSession.commit();
     }
 
     @Test
-    public void insert(){
+    public void insert() {
         Boolean liu = mapper.insert(new UserVO(null, "liu", "1997-11-30"));
         System.out.println(liu);
         sqlSession.commit();
     }
 
     @Test
-    public void findByName(){
+    public void findByName() {
         List<UserVO> o = mapper.findByName("o");
         o.stream().forEach(System.out::println);
     }
 
     @Test
-    public void findTotal(){
+    public void findTotal() {
         Long total = mapper.findTotal();
         System.out.println(total);
     }

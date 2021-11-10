@@ -10,7 +10,7 @@ public class _smallestK_ {
         }
         System.out.println(priorityQueue.peek());
         int[] retVal = new int[k];
-        for (int i = 0; i <priorityQueue.size() ; i++) {
+        for (int i = 0; i < priorityQueue.size(); i++) {
             retVal[i] = priorityQueue.poll();
         }
         return retVal;

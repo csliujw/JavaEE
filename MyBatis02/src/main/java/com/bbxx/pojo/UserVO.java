@@ -8,12 +8,16 @@ public class UserVO implements Serializable {
     private String username;
     private String birthday;
     private String address;
-    public UserVO(){}
-    public UserVO(Integer id,String username,String birthday){
+
+    public UserVO() {
+    }
+
+    public UserVO(Integer id, String username, String birthday) {
         this.id = id;
         this.username = username;
         this.birthday = birthday;
     }
+
     public Integer getId() {
         return id;
     }

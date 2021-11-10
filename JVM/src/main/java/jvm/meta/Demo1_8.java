@@ -1,9 +1,9 @@
-package java.m;
+package jvm.meta;
 
 //import jdk.internal.org.objectweb.asm.ClassWriter;
 //import jdk.internal.org.objectweb.asm.Opcodes;
-
-// 演示元空间溢出
+//
+//// 演示元空间溢出
 //public class Demo1_8 extends ClassLoader { // 继承 ClassLoader 可以用来加载类的二进制字节码
 //    public static void main(String[] args) {
 //        int j = 0;

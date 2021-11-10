@@ -1,11 +1,15 @@
 # 前言
+
 常用快捷键
+
 ## w10快捷键
+
 - Alt + Tab 选择活动窗口
- 
+
 ## idea快捷键
+
 - ctrl + Tab 切换窗口
-- ctrl + E 最近编辑的窗口 
+- ctrl + E 最近编辑的窗口
 - Alt + 1 显示/隐藏侧边栏
 - ctrl + F4 关闭当前窗口
 - Alt + Insert 插入代码【如：生成set get方法】
@@ -14,11 +18,17 @@
 - Ctrl + W 关闭侧边栏
 
 # MyBatis学习
+
 ## MyBatis（一）
+
 ### 解决的问题
+
 MyBatis解决了持久层重复代码多的问题，简化了持久层的开发，减少了持久层的代码量。
+
 ### 配置文件的书写
+
 配置文件中要书写的就是传统开发中需要配置的那些jdbc参数信息。
+
 ```xml
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE configuration
@@ -53,7 +63,9 @@ MyBatis解决了持久层重复代码多的问题，简化了持久层的开发�
     </mappers>
 </configuration>
 ```
+
 SQL文件配置
+
 ```xml
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE mapper
@@ -66,7 +78,9 @@ SQL文件配置
     </select>
 </mapper>
 ```
+
 log4j日志配置
+
 ```properties
 #log4j基本配置
 log4j.rootLogger=DEBUG,console,file
@@ -85,7 +99,9 @@ log4j.appender.file.Threshold=ERROR      #只会写ERROR级别及以上的日志
 log4j.appender.file.layout=org.apache.log4j.PatternLayout     #布局器
 log4j.appender.file.layout.ConversionPattern=%c-%m%n   #布局器格式
 ```
+
 **log4j仅打印SQL语句**
+
 ```properties
 # 全局日志配置
 log4j.rootLogger=ERROR, stdout
@@ -96,10 +112,13 @@ log4j.appender.stdout=org.apache.log4j.ConsoleAppender
 log4j.appender.stdout.layout=org.apache.log4j.PatternLayout
 log4j.appender.stdout.layout.ConversionPattern=%5p [%t] - %m%n
 ```
+
 ### Dao层代码
 
 ## MyBatis(二)
+
 ### 简单的CURD
+
 ```java
 
 package com.bbxx.dao;
@@ -132,6 +151,7 @@ public interface IUserDao {
     Long findTotal();
 }
 ```
+
 ```xml
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE mapper
@@ -190,18 +210,19 @@ public interface IUserDao {
     </select>
 </mapper>
 ```
+
 ### #和$
+
 `#{}`表示一个占位符号
 
 通过`#{}`可以实现 preparedStatement 向占位符中设置值，自动进行 java 类型和 jdbc 类型转换，
 
-`#{}`可以有效防止 sql 注入。 `#{}`可以接收简单类型值或 pojo 属性值。 如果 parameterType 传输单个简单类
-型值，`#{}`括号中可以是 value 或其它名称。
+`#{}`可以有效防止 sql 注入。 `#{}`可以接收简单类型值或 pojo 属性值。 如果 parameterType 传输单个简单类 型值，`#{}`括号中可以是 value 或其它名称。
 
 `${}`表示拼接 sql 串
 
-通过`${}`可以将 parameterType 传入的内容拼接在 sql 中且不进行 jdbc 类型转换， `${}`可以接收简
-单类型值或 pojo 属性值，如果 parameterType 传输单个简单类型值，`${}`括号中只能是 value。
+通过`${}`可以将 parameterType 传入的内容拼接在 sql 中且不进行 jdbc 类型转换， `${}`可以接收简 单类型值或 pojo 属性值，如果 parameterType 传输单个简单类型值，`${}`括号中只能是
+value。
 
 > 源码级别解析
 
@@ -222,4 +243,5 @@ class A{
     }
 }
 ```
->读取的 key 的名字就是”value”，所以我们在绑定参数时就只能叫 value 的名字
+
+> 读取的 key 的名字就是”value”，所以我们在绑定参数时就只能叫 value 的名字

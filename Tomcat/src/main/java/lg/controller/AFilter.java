@@ -7,7 +7,8 @@ import java.io.FileInputStream;
 import java.io.FileOutputStream;
 import java.io.IOException;
 
-@WebFilter(filterName = "AFilter", urlPatterns = {"/*"})
+//@WebFilter(filterName = "AFilter", urlPatterns = {"/*"})
+@WebFilter("123")
 public class AFilter implements Filter {
     public void destroy() {
     }

@@ -23,8 +23,6 @@ public class Binary {
         long a = Integer.MAX_VALUE * 2;
 
 
-
-        
         System.out.println(a);
     }
 

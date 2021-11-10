@@ -21,18 +21,18 @@
     <select id="findByPrimaryKey" resultMap="roleMap">
         select r.id, r.role_desc, r.role_name, u.id, u.username, u.address, u.birthday
         from users as u,
-             role as r,
-             middle as m
+        role as r,
+        middle as m
         where r.id = #{value}
-          and m.u_id = u.id
-          and m.r_id = r.id
+        and m.u_id = u.id
+        and m.r_id = r.id
     </select>
 
     <select id="findAllRole" resultMap="roleMap">
         select r.id, r.role_desc, r.role_name, u.id, u.username, u.address, u.birthday
         from users as u,
-             role as r,
-             middle as m
+        role as r,
+        middle as m
         where m.u_id = u.id
         and m.r_id = r.id
     </select>

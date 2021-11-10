@@ -25,7 +25,7 @@ public class _14_LongestCommonPrefix {
             for (int j = 0; j < prefix.length() && j < strs[i].length(); j++) {
                 if (prefix.charAt(j) != strs[i].charAt(j)) prefix = strs[i].substring(0, j);
             }
-            if(prefix.length()>strs[i].length()) prefix = strs[i];
+            if (prefix.length() > strs[i].length()) prefix = strs[i];
         }
         return prefix;
     }

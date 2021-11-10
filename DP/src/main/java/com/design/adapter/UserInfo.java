@@ -1,6 +1,6 @@
 package com.design.adapter;
 
-public class UserInfo implements IUserInfo{
+public class UserInfo implements IUserInfo {
     @Override
     public String getUserName() {
         System.out.println("公司员工姓名");

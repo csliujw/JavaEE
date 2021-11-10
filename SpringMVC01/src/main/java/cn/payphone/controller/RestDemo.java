@@ -4,7 +4,7 @@ import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.*;
 
 @Controller
-@RequestMapping(value = "/rest",produces="text/html;charset=utf-8")
+@RequestMapping(value = "/rest", produces = "text/html;charset=utf-8")
 public class RestDemo {
 
     @GetMapping("/")
